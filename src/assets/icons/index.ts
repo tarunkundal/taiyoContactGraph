@@ -1,9 +1,9 @@
-import { ReactComponent as AddIcon } from './addIcon.svg'
-import { ReactComponent as LogoIcon } from '../../../public/logo.svg'
-import { ReactComponent as BoardIcon } from './boardIcon.svg'
-import { ReactComponent as GraphIcon } from './graph.svg'
-import { ReactComponent as ContactIcon } from './contact.svg'
-import { ReactComponent as SettingsIcon } from './settings.svg'
+import AddIcon from './addIcon.svg'
+import LogoIcon from '../../../public/logo.svg'
+import BoardIcon from './boardIcon.svg'
+import GraphIcon from './graph.svg'
+import ContactIcon from './contact.svg'
+import SettingsIcon from './settings.svg'
 
 // Export them as an object
 const Icons = {
