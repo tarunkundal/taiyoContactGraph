@@ -1,9 +1,4 @@
-<img width="1440" alt="Screenshot 2024-08-29 at 11 38 59" src="https://github.com/user-attachments/assets/39f640a7-e507-4eb0-92ad-7f96cea352a0">
-<img width="1440" alt="Screenshot 2024-08-29 at 13 32 48" src="https://github.com/user-attachments/assets/da1af74c-102e-4484-bd62-a388486c1de3">
-<img width="1440" alt="Screenshot 2024-08-29 at 13 33 08" src="https://github.com/user-attachments/assets/d9d4bf29-3062-4802-bb6e-1a745c2914d0">
-<img width="1440" alt="Screenshot 2024-08-29 at 13 33 32" src="https://github.com/user-attachments/assets/5fbc0cb8-871a-47b6-8e82-2613eb828787">
-<img width="1440" alt="Screenshot 2024-08-29 at 13 34 06" src="https://github.com/user-attachments/assets/ae0e7b96-fc0d-45d8-84ee-b89c2f764049">
-<img width="1440" alt="Screenshot 2024-08-29 at 11 38 46" src="https://github.com/user-attachments/assets/45c127c7-3f0e-41f1-9183-09d41fdbe19e">
+
 # Contact Management App with Charts and Maps (taiyoContactGraph)
 
 ## Overview
@@ -15,7 +10,8 @@ Contact Management
 - **View Contacts**: List of all added contacts.
 - **Edit and Delete**: Options to edit or delete existing contacts.
 - **State Management**: Utilizes Redux to store contact data.
-
+<img width="1440" alt="Screenshot 2024-08-29 at 11 38 59" src="https://github.com/user-attachments/assets/39f640a7-e507-4eb0-92ad-7f96cea352a0">
+<img width="1440" alt="Screenshot 2024-08-29 at 13 32 48" src="https://github.com/user-attachments/assets/da1af74c-102e-4484-bd62-a388486c1de3">
 
 ## Dashboard
 Line Graph: Displays fluctuations in COVID-19 cases over time.
@@ -24,6 +20,12 @@ React Leaflet Map: Shows markers with country-specific COVID-19 data (active cas
 Worldwide Data: https://disease.sh/v3/covid-19/all
 Country-Specific Data: https://disease.sh/v3/covid-19/countries
 Historical Data: https://disease.sh/v3/covid-19/historical/all?lastdays=all
+
+
+<img width="1440" alt="Screenshot 2024-08-29 at 13 33 08" src="https://github.com/user-attachments/assets/d9d4bf29-3062-4802-bb6e-1a745c2914d0">
+<img width="1440" alt="Screenshot 2024-08-29 at 13 33 32" src="https://github.com/user-attachments/assets/5fbc0cb8-871a-47b6-8e82-2613eb828787">
+<img width="1440" alt="Screenshot 2024-08-29 at 13 34 06" src="https://github.com/user-attachments/assets/ae0e7b96-fc0d-45d8-84ee-b89c2f764049">
+<img width="1440" alt="Screenshot 2024-08-29 at 11 38 46" src="https://github.com/user-attachments/assets/45c127c7-3f0e-41f1-9183-09d41fdbe19e">
 
 ## Setup
 Clone the Repository
