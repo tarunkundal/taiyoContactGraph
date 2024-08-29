@@ -5,10 +5,11 @@ This project is a contact management app built with ReactJS, TypeScript, and Cha
 
 ## Features
 Contact Management
-**Add Contacts**: Form to add new contacts.
-**View Contacts**: List of all added contacts.
-**Edit and Delete**: Options to edit or delete existing contacts.
-**State Management**: Utilizes Redux to store contact data.
+- **Add Contacts**: Form to add new contacts.
+- **View Contacts**: List of all added contacts.
+- **Edit and Delete**: Options to edit or delete existing contacts.
+- **State Management**: Utilizes Redux to store contact data.
+
 
 ## Dashboard
 Line Graph: Displays fluctuations in COVID-19 cases over time.
