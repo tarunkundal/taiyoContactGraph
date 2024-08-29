@@ -14,7 +14,7 @@ export const SidebarItemRow = ({
     isActive,
 }: SidebarOptionType) => {
     return (
-        <Flex w="full" flexDir="column" justifyContent={'center'} alignItems={{ sm: 'center', md: 'inherit' }} >
+        <Flex w="full" flexDir="column" justifyContent={'center'} alignItems={{ base: 'center', md: 'inherit' }} >
             <Link to={navTo} style={{ textDecoration: 'none' }} color={TextVariant.medium14}>
                 <Flex
                     w={'auto'}
@@ -35,7 +35,7 @@ export const SidebarItemRow = ({
                         color={isActive ? IconColor.active_primary : IconColor.primary}
                         fontSize="20px"
                     />
-                    <Text display={{ sm: 'none', md: 'block' }} variant={TextVariant.medium14}>{label}</Text>
+                    <Text display={{ base: 'none', md: 'block' }} variant={TextVariant.medium14}>{label}</Text>
                 </Flex>
             </Link>
         </Flex>

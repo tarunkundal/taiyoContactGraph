@@ -14,7 +14,7 @@ export const SidebarLayout = ({ children }: Props) => {
         <Flex
             h="100vh"
             position={'fixed'}
-            w={{ sm: '10%', md: '15%' }}
+            w={{ base: '10%', md: '15%' }}
             flexDir="column"
             justifyContent="space-between"
             bg={BgColor.primary}
