@@ -4,17 +4,46 @@
     "target": "es6",
     "module": "esnext",
     "moduleResolution": "node",
-    "strict": true,
+    // "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "baseUrl": "./",
     "noUnusedLocals": true,
-    "noUnusedParameters": true,
     "paths": {
       "@/*": [
         "src/*"
       ]
     }
-  }
+  },
+  "include": [
+    "./src/**/*",
+    "vite.config.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }
+// {
+//   "compilerOptions": {
+//     "baseUrl": ".",
+//     "isolatedModules": true,
+//     "esModuleInterop": true,
+//     "preserveWatchOutput": true,
+//     "allowJs": true,
+//     "moduleResolution": "node",
+//     "jsx": "react-jsx",
+//     "paths": {
+//       "@/*": [
+//         "./src/*"
+//       ]
+//     }
+//   },
+//   "include": [
+//     "./src/**/*",
+//     "vite.config.ts"
+//   ],
+//   "exclude": [
+//     "node_modules"
+//   ]
+// }

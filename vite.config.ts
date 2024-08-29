@@ -7,11 +7,12 @@ export default defineConfig({
   plugins: [
     svgr({
       svgrOptions: {
-        exportType: 'default',
+        exportType: 'named',
         ref: true,
         svgo: false,
         titleProp: true,
         memo: true,
+        icon: true
       },
       include: '**/*.svg',
     }),
