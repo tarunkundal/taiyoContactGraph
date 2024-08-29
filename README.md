@@ -1,58 +1,49 @@
-Contact Management App with Charts and Maps (taiyoContactGraph)
+# Contact Management App with Charts and Maps (taiyoContactGraph)
 
-Overview
+## Overview
 This project is a contact management app built with ReactJS, TypeScript, and Chakra UI. The app includes a dashboard with charts and maps to visualize COVID-19 data. It uses RTK Query for data management and Redux toolkit for state management.
 
-Features
+## Features
 Contact Management
-Add Contacts: Form to add new contacts.
-View Contacts: List of all added contacts.
-Edit and Delete: Options to edit or delete existing contacts.
-State Management: Utilizes Redux to store contact data.
+**Add Contacts**: Form to add new contacts.
+**View Contacts**: List of all added contacts.
+**Edit and Delete**: Options to edit or delete existing contacts.
+**State Management**: Utilizes Redux to store contact data.
 
-Dashboard
+## Dashboard
 Line Graph: Displays fluctuations in COVID-19 cases over time.
 React Leaflet Map: Shows markers with country-specific COVID-19 data (active cases, recovered cases, and deaths).
-APIs Used
+**APIs Used**
 Worldwide Data: https://disease.sh/v3/covid-19/all
 Country-Specific Data: https://disease.sh/v3/covid-19/countries
 Historical Data: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 
-Setup
+## Setup
 Clone the Repository
 
-bash
-Copy code
-git clone git@github.com:tarunkundal/taiyoContactGraph.git
-cd taiyoContactGraph
-Install Dependencies
+**Copy code**
+- git clone git@github.com:tarunkundal/taiyoContactGraph.git
+- cd taiyoContactGraph
+- npm install
+- npm start
+- The app will be available at http://localhost:3000.
 
-bash
-Copy code
-npm install
-Run the App
+**Technologies Used**
+- ReactJS: Frontend library
+- TypeScript: Type-checking
+- Chakra UI: UI component library
+- RTK Query: Data fetching and caching
+- Redux: State management
+- React Leaflet: Map integration
 
-bash
-Copy code
-npm start
-The app will be available at http://localhost:3000.
-
-Technologies Used
-ReactJS: Frontend library
-TypeScript: Type-checking
-Chakra UI: UI component library
-RTK Query: Data fetching and caching
-Redux: State management
-React Leaflet: Map integration
-
-Deployment
+**Deployment**
 The app is deployed on Vercel, and you can access it here.
 
-Notes
+**Notes**
 The app is designed to be responsive and looks good on both desktop and mobile devices.
 Ensure you have a stable internet connection as the app relies on external APIs.
 License
 This project is licensed under the MIT License.
 
-Contact
+**Contact**
 For any questions or issues, please contact chauhan271singh@gmail.com.
