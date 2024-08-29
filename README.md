@@ -38,7 +38,7 @@ Clone the Repository
 - React Leaflet: Map integration
 
 **Deployment**
-The app is deployed on Vercel, and you can access it here.
+The app is deployed on Vercel, and you can access it here. https://taiyoaitask.vercel.app/
 
 **Notes**
 The app is designed to be responsive and looks good on both desktop and mobile devices.
