@@ -22,10 +22,10 @@ Worldwide Data: https://disease.sh/v3/covid-19/all
 Country-Specific Data: https://disease.sh/v3/covid-19/countries
 Historical Data: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 
+<img width="1440" alt="Screenshot 2024-08-29 at 14 34 30" src="https://github.com/user-attachments/assets/bcb72b0d-d26e-46ec-8e82-6d5b0dae9246">
+<img width="1440" alt="Screenshot 2024-08-29 at 14 34 14" src="https://github.com/user-attachments/assets/5db80952-0060-4820-aed3-d09285414428">
+<img width="1440" alt="Screenshot 2024-08-29 at 14 34 01" src="https://github.com/user-attachments/assets/5616d910-fe4b-4951-b100-ac3c42d4860d">
 
-<img width="1440" alt="Screenshot 2024-08-29 at 13 33 08" src="https://github.com/user-attachments/assets/d9d4bf29-3062-4802-bb6e-1a745c2914d0">
-<img width="1440" alt="Screenshot 2024-08-29 at 13 33 32" src="https://github.com/user-attachments/assets/5fbc0cb8-871a-47b6-8e82-2613eb828787">
-<img width="1440" alt="Screenshot 2024-08-29 at 13 34 06" src="https://github.com/user-attachments/assets/ae0e7b96-fc0d-45d8-84ee-b89c2f764049">
 
 ## Setup
 Clone the Repository
