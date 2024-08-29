@@ -2,8 +2,7 @@ import { createApi, fetchBaseQuery, retry } from '@reduxjs/toolkit/query/react';
 
 const staggeredBaseQuery = retry(
     fetchBaseQuery({
-        baseUrl: '/api', 
-        // baseUrl: 'https://disease.sh/v3/covid-19',
+        baseUrl: import.meta.env.VITE_API_URL,
         credentials: 'include',
         mode: 'cors',
     }),

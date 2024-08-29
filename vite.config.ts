@@ -18,16 +18,16 @@ export default defineConfig({
     }),
     react()
   ],
-  server: {
-    proxy: {
-      '/api': {
-        target: 'https://disease.sh/v3/covid-19',
-        changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, ''),
-      },
-    },
-    port: 3000
-  },
+  // server: {
+  //   proxy: {
+  //     '/api': {
+  //       target: 'https://disease.sh/v3/covid-19',
+  //       changeOrigin: true,
+  //       rewrite: (path) => path.replace(/^\/api/, ''),
+  //     },
+  //   },
+  //   port: 3000
+  // },
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src'),
